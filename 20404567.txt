@@ -13,29 +13,3 @@ https://github.com/livebloggerofficial/Responsive-App-Website
 https://github.com/leavesCZY/WifiP2P
 https://github.com/BilalAndroidDevX/WifiFileTransferDemo
 
-dl/20260306lCFQku6i
-
-1. I have pictures and other files in 'Recently Accessed,' but when I click an image, it doesn't open the one I selected. check the indexing for these images.
-2. Preview image/video
- a. Clicking delete should ask for confirmation
- b. clicking share is not working, just refreshing the list
- c. When I search for something, open an image or video, and then click delete, a black screen appears after the file is deleted.
- d. Show a toast message after deleting. Deleted image is still there
-3. Every time I click 'back' from a list, it shows a white screen.
-4. In scan list after clicking three dots, white area is visible.
-5. When I refresh the list, the loader is visible but it won't hide.
-6. Sometimes unable to close interstitial Ad
-//////////////////////////
-1. Preview image/video
- a. Clicking delete should ask for confirmation
- b. Deleted is not there in trash.
-2. Secure folder
- a. unable to unlock the file that i locked 
- b. When I hide a file, it correctly shows as a file within a folder in the Secure Folder list. However, if I click that folder, it asks me to 'Lock' the folder again instead of just showing the folder inside, show only file
-3. App manager UI - In the App Manager, the font color for 'Last used,' 'Most used,' and 'App size' is black. Please change it to white. Also, check the highlight color when an item is selected.
-4. provide after scanning to share the file, after clicking on 3 dots provide a option.
-This is regrading about file manager
-@184292802068564
-
-
-
