@@ -15,4 +15,5 @@ https://github.com/BilalAndroidDevX/WifiFileTransferDemo
 
 https://sites.google.com/view/pratimaenterprice/home
 
+https://support.google.com/googleplay/android-developer/answer/9857753
 https://support.google.com/googleplay/android-developer/answer/9857753#disruptive-ads
